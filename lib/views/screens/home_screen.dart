@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/screens/page1.dart';
-import 'package:flutter_application_1/screens/page2.dart';
-import 'package:flutter_application_1/screens/page3.dart';
+import 'package:flutter_application_1/views/screens/page1.dart';
+import 'package:flutter_application_1/views/screens/page2.dart';
+import 'package:flutter_application_1/views/screens/page3.dart';
 
 // ignore: camel_case_types, must_be_immutable
 class homescreen extends StatefulWidget {

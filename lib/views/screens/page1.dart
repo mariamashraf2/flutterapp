@@ -19,7 +19,6 @@ class _page1State extends State<page1> {
 
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     getCachedEmail();
   }
